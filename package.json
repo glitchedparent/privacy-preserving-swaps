@@ -1,0 +1,20 @@
+{
+  "name": "privacy-preserving-swaps",
+  "version": "1.0.0", 
+  "description": "Privacy-Preserving Swaps is a JavaScript package that facilitates secure and confidential token swaps on the Ethereum network using zero-knowledge proofs (zk-SNARKs)",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/glitchedparent/privacy-preserving-swaps.git"
+  },
+  "keywords": [
+    "", 
+    "",
+    ""
+  ],
+  "author": "glitchedparent",
+  "license": "MIT"
+}
